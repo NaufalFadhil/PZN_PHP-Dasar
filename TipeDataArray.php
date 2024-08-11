@@ -11,3 +11,12 @@ var_dump($cara1);
  * [4]=> int(5)
  * }
  */
+
+$cara2 = ["Naufal", "Fadhil", "Athallah"];
+/**
+ * array(3) {
+ * [0]=> string(6) "Naufal"
+ * [1]=> string(6) "Fadhil"
+ * [2]=> string(8) "Athallah"
+ * }
+ */
