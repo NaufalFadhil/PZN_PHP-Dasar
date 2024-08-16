@@ -14,9 +14,9 @@ $full = $first + $last;
 var_dump($full);
 /**
  * array(3) {
- * ["first_name"]=> string(6) "Naufal"
- * ["middle_name"]=> string(6) "Fadhil"
- * ["last_name"]=> string(8) "Athallah"
+ *   ["first_name"]=> string(6) "Naufal"
+ *   ["middle_name"]=> string(6) "Fadhil"
+ *   ["last_name"]=> string(8) "Athallah"
  * }
  */
 
